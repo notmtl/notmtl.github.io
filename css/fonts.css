@@ -1,0 +1,21 @@
+/**************
+* @package WordPress
+* @subpackage Cuckoothemes
+* @since Cuckoothemes 1.0
+* URL http://cuckoothemes.com
+**************
+*
+** Name : Font settings
+*/
+/*------- BebasNeue Font --*/
+
+@font-face {
+	font-family: 'BebasNeue';
+	src: url('../theme/admin/font/bebasneue-webfont.eot');
+    src: url('../theme/admin/font/bebasneue-webfont.eot#iefix') format('embedded-opentype'),
+         url('../theme/admin/font/bebasneue-webfont.woff') format('woff'),
+         url('../theme/admin/font/bebasneue-webfont.ttf') format('truetype'),
+         url('../theme/admin/font/bebasneue-webfont.svg#BebasNeue') format('svg');
+	font-weight: normal;
+    font-style: normal;
+}

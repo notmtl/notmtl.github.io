@@ -1,0 +1,36 @@
+/**************
+* @package WordPress
+* @subpackage Cuckoothemes
+* @since Cuckoothemes 1.0
+* URL http://cuckoothemes.com
+**************
+*
+** Name : shortcodes 
+*/
+
+.shortcode_map { display: block; margin-top: 0; }
+iframe.shortcode_map { border:0 none; }
+.small_button { padding:3px 10px; border-bottom:0!important; font-size:11px; display: inline-block; }
+.small_button:hover, .medium_button:hover, .large_button:hover { -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear; -o-transition: all 0.2s linear; }
+.medium_button { box-shadow: 0 1px 1px #888888; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; position:relative; line-height: 2; height:31px; border-bottom:0!important; font-size:15px; font-weight:bold; display: inline-block; }
+.first_short_medium_button { background: url('/wp-content/themes/cuckootap/cuckootap/images/first_medium_short_button.png') no-repeat; width:5px; height:31px; display: inline-block; }
+.center_short_medium_button { text-shadow: 0 1px 1px rgba(0,0,0,0.5); background: url('/wp-content/themes/cuckootap/cuckootap/images/center_medium_short_button.png') repeat-x; height:31px; padding:0 10px; vertical-align: top; display: inline-block; }
+.last_short_medium_button { background: url('/wp-content/themes/cuckootap/cuckootap/images/last_medium_short_button.png') no-repeat; width:5px; height:31px; display: inline-block; }
+/* Large */
+.large_button { box-shadow: 0 1px 1px #888888; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; position:relative; height:41px; line-height: 2.3; border-bottom:0!important; font-size:18px; font-weight:bold; display: inline-block; }
+.first_short_large_button { background: url('/wp-content/themes/cuckootap/cuckootap/images/first_large_short_button.png') no-repeat; width:5px; height:41px; display: inline-block; }
+.center_short_large_button { text-shadow: 0 1px 1px rgba(0,0,0,0.5); background: url('/wp-content/themes/cuckootap/cuckootap/images/center_large_short_button.png') repeat-x; height:41px; padding:0 10px; vertical-align: top; display: inline-block; }
+.last_short_large_button { background: url('/wp-content/themes/cuckootap/cuckootap/images/last_large_short_button.png') no-repeat; width:5px; height:41px; display: inline-block; }
+.arrows_botton { display: inline-block; position:absolute; height:22px; width:20px;  }
+.arrows_botton_large { display: inline-block; position:absolute; height:22px; width:20px;  }
+.shortcode_botton_shadow { bottom: -23px; display: block; height: 56px; position: absolute; right: -8px; width: 166px; z-index: -10; }
+
+.fb_edge_widget_with_comment , .twitter-share-button, .pin-it-button{ vertical-align: top; }
+.social-box { display:block; }
+.social-box-list { display: inline-block;  min-width: 110px; vertical-align: top; }
+.pinterest-btn { height: 30px; margin: 0; padding: 0; width: 60px; display:inline-block; vertical-align: top; }
+.pin-it-btn { position: absolute; background: url(http://assets.pinterest.com/images/pinit6.png); font: 11px Arial, sans-serif; text-indent: -9999em; font-size: .01em; color: #CD1F1F; height: 20px; width: 43px; background-position: 0 -7px; }
+.pin-it-btn:hover { background-position: 0 -28px; }
+.pin-it-btn:active { background-position: 0 -49px; }
+a.pin-it-btn { border-bottom:0 none!important; }
+iframe html body.horizontal, iframe html body.vertical { vertical-align:top; }
