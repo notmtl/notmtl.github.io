@@ -10,6 +10,11 @@ body {
     body {
       padding-bottom: 110px; } }
 
+.box {
+    background-color: #000;
+    color: #fff;
+    opacity: .5; }
+
 .navbar-brand {
   margin-right: 0; }
   .navbar-brand img {
