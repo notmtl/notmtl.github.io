@@ -10,10 +10,17 @@ body {
     body {
       padding-bottom: 110px; } }
 
+.wrapper {
+    height: 1000px;
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+}
+
 .box1 {
-    background-color: #000;
-    color: #fff;
-    opacity: .5; }
+    padding: 50px;
+    background-color: rgba(0,0,0,.5);
+    color: #fff; }
 
 .navbar-brand {
   margin-right: 0; }
